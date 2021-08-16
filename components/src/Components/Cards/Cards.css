@@ -1,0 +1,13 @@
+.cardss{
+    width: 70%;
+    margin: 50px 15% 50px 15%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.butt{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
